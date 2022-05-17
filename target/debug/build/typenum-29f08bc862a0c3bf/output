@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Aravind Mandiga\Downloads\Fullstack\rust\cosmwasm\cw-contracts\contracts\nameservice\target\debug\build\typenum-29f08bc862a0c3bf\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Aravind Mandiga\Downloads\Fullstack\rust\cosmwasm\cw-contracts\contracts\nameservice\target\debug\build\typenum-29f08bc862a0c3bf\out\op.rs
